@@ -1,0 +1,16 @@
+# HTML and CSS Basics
+* This is a series of html and css documents to introduce what is html and css and how to use it to create and design standard's compliant websites. 
+
+## Creation Information
+* These documents were adapted from various sources for a series of classes on Drupal 7. These pages help were used to introduce html/css design techniques before we began working on Drupal 7 Theming.
+* Creator: Mark Koester aka markwk (https://github.com/markwk)
+
+## Lessons / Topics:
+1. A
+2. B
+3. C
+4. D
+
+# Additional Resources and Sites for learning and practicing html and css:
+* 
+
