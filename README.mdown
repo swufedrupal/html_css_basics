@@ -6,11 +6,21 @@
 * Creator: Mark Koester aka markwk (https://github.com/markwk)
 
 ## Lessons / Topics:
-1. A
-2. B
-3. C
-4. D
+1.  HTML Basics: H1, H2, p, blockquote, a
+2.  What CSS Adds? With Firebug "disable styles" browser example.
+3.  Adding CSS: browserstyle, inlinestyle, embeddedstyle, linkedstyle, importedstyle
+4.  CSS Syntax: Selector | Declaration
+5.  Colors
+6.  Borders
+7.  Padding-margins
+8.  Lists
+9.  Fonts
+10. Backgrounds
+11. Tables
+12. Links
+13. Positioning with CSS: Floats and Absolute Positing
+14. Forms
 
 # Additional Resources and Sites for learning and practicing html and css:
-* 
+* http://w3schools.com
 
