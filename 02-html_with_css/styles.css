@@ -1,0 +1,18 @@
+/* Styles */
+
+h1 {color: red; text-align: center; }
+
+h2 {font-family:sans-serif; color: blue;
+	font-size: 72px;
+	text-align: right;
+}
+
+p { color: purple; font-size: 20px; }
+
+li {
+	font-size:25px;	
+}
+
+blockquote {
+	font-style: italic;
+}
